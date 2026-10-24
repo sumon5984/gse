@@ -1,0 +1,8 @@
+{
+  "name": "varari",
+  "version": "1.0.0",
+  "description": "koyel er gud",
+  "main": "index.js",
+  "type": "module",
+  "exports": "./index.js"
+}
